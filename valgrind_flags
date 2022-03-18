@@ -1,0 +1,1 @@
+valgrind --leak-check=full -s --undef-value-errors=yes --track-fds=yes --show-reachable=yes
